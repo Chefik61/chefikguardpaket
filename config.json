@@ -1,0 +1,19 @@
+{
+  "TOKEN": "TOKEN", 
+  "botSes": "ID",
+  "status": "STATUS",
+  "sahip": "ID",
+  "prefix": "PREFIX",
+  "guildID": "ID",
+  "booster": "ID",
+  "jail": "ID",
+  
+  "Log": {
+    "ChannelLog": "ID",
+    "RoleLog": "ID",
+    "GuildUpdateLog": "ID",
+    "BotAddLog": "ID",
+    "KickLog": "ID",
+    "BanLog": "ID"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "chefik-guard",
+  "version": "0.0.1",
+  "description": "guard",
+  "main": "chefik.js",
+  "scripts": {
+    "test": "node chefik.js"
+  },
+  "author": "chefikxd",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1"
+  }
+}
